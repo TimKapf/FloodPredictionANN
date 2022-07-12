@@ -8,4 +8,6 @@ We developed an artificial neural network to predict flooding events in the city
 <br>
 You can find the implementation in Google Colab and further documentation in the paper. 
 
+[Google Drive with the datasets](https://drive.google.com/drive/folders/1vs0Wwpi-SQr0MIJ0y1A-rSjI7lIsLIWc)
+
 
