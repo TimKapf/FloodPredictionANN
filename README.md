@@ -1,6 +1,6 @@
 # Flood prediction with ANN
 
-Authors: Alicia Bayerl, Rosanna Beckmann, Time Kapferer, Michael Ramich, Hendrik Schmidt, Maximilian Springer
+Authors: Alicia Bayerl, Rosanna Beckmann, Tim Kapferer, Michael Ramich, Hendrik Schmidt, Maximilian Springer
 
 This is our final project for the course Neurodynamics hold at the University of Osnabrück in the summer term 2022. <br>
 
